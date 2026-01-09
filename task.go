@@ -20,4 +20,5 @@ func main() {
 
 	fahrenheit := celsius*9/5 + 32
 	fmt.Printf("%.1f °F\n", fahrenheit)
+
 }
